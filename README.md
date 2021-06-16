@@ -23,7 +23,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mimo-a11y.github.io/Stats-preview-card-component/]
 
 ### My Process
 
